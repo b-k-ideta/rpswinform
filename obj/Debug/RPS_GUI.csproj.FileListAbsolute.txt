@@ -1,0 +1,16 @@
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\obj\Debug\RPS_GUI.csproj.AssemblyReference.cache
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\obj\Debug\RPS_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\obj\Debug\RPS_GUI.Properties.Resources.resources
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\obj\Debug\RPS_GUI.csproj.GenerateResource.cache
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\obj\Debug\RPS_GUI.csproj.CoreCompileInputs.cache
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\bin\Debug\RPS_GUI.exe.config
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\bin\Debug\RPS_GUI.exe
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\bin\Debug\RPS_GUI.pdb
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\obj\Debug\RPS_GUI.exe
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\obj\Debug\RPS_GUI.pdb
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\obj\Debug\RPS_GUI.View.Title.resources
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\obj\Debug\RPS_GUI.View.Game.resources
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\obj\Debug\RPS_GUI.MainWindow.resources
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\bin\Debug\Img\paper.png
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\bin\Debug\Img\rock.png
+C:\Users\bruok\source\repos\RPS_GUI\RPS_GUI\bin\Debug\Img\scissor.png
